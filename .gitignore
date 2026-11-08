@@ -1,0 +1,29 @@
+# Keil MDK 编译输出
+Objects/
+Listings/
+build/
+*.uvguix.*
+*.uvoptx
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.dep
+*.iex
+*.sct
+*.lnp
+*.scvd
+*.bak
+*.tmp
+JLinkLog.txt
+
+# VS Code
+.vscode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
